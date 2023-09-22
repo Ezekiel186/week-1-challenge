@@ -34,13 +34,13 @@ header div {
     display: inline-block;
     margin-left: 25px;
 }
-/*moved header and div (this was the first change I was just trying to change stuff wihtout changing the website)*/
+/*moved header and div (this was the 1st change I was just trying to change stuff wihtout changing the website)*/
 ul {
     list-style-type: none;
     display: inline-block;
     margin-left: 25px;
 }
-/*moved header div and ul(second change jsut moving stuff around)*/
+/*moved header div and ul(2nd change jsut moving stuff around)*/
 li {
     display: inline-block;
     margin-left: 25px;
@@ -90,23 +90,23 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-/*combined .benefit-lead .benefit-brand .benefit-cost (third change realized i could combine stuff that were doing the same thing but had different classes)*/
+/*combined .benefit-lead .benefit-brand .benefit-cost (3rd change realized i could combine stuff that were doing the same thing but had different classes)*/
 .benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
-/*combined .benefit-lead h3, .benefit-brand h3, .benefit-cost h3 (fourth change did the same thing I did for third)*/
+/*combined .benefit-lead h3, .benefit-brand h3, .benefit-cost h3 (4th change did the same thing I did for third)*/
 .benefit-lead h3, .benefit-brand h3, .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-/*combined .benefit-lead img, .benefit-brand img, .benefit-cost img (fifth change did the same thing)*/
+/*combined .benefit-lead img, .benefit-brand img, .benefit-cost img (5th change did the same thing)*/
 .benefit-lead img, .benefit-brand img, .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-/*combined .search-engine-optimization, .online-reputation-management, .social-media-marketing (sixed change did the same thing)*/
+/*combined .search-engine-optimization, .online-reputation-management, .social-media-marketing (6th change did the same thing)*/
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -115,11 +115,11 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-/*combined .search-engine-optimization img, .online-reputation-management img, .social-media-marketing img (seventh change did the same thing)*/
+/*combined .search-engine-optimization img, .online-reputation-management img, .social-media-marketing img (7th change did the same thing)*/
 .search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
     max-height: 200px;
 }
-/*combined .search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2 (eighth change did the same thing)*/
+/*combined .search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2 (8th change did the same thing)*/
 .search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
